@@ -33,58 +33,64 @@ I would love to learn more about APi's and deploying applications.
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
-
 My projects:
 
-#### foodshala: online food order portal
+#### chat-app: Realtime Chat App
 
-_description_ Online food ordering portal.
+_description_ React Chat app, talk realtime.
 
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
+_stack_ Reactjs, Hooks and Sockets are used to design this app.
 
-_hosted link_ not hosted
+_hosted link_ https://realtime-chat-application.netlify.app
 
-_github link_ not on git hub
+_github link_ https://github.com/ishita303/Chatapp.git
 
-#### visage: face recognition portal
+#### weather-app: Weather App
 
-_description_ Designed the frontend and backend of the face recognition web portal.
+_description_ Displays the weather and the background changes with the temperature.
 
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
-
-_hosted link_ not hosted
-
-_github link_ not on github
-
-#### websites: Various websites
-
-_description_ Designed various websites, coded as well as CMS websites.
-
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
-
-_hosted link_ https://gradnet.co.in
-https://intereality.in https://seeshub.com https://wufu.in 
-
-_github link_ not on github
-
-#### Indian Handicrafts: online handicrafts order portal
-
-_description_ Designed the frontend and backend of the ecommerce website.
-
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
+_stack_ Designed using React and API
 
 _hosted link_ not hosted
 
-_github link_ not on github
+_github link_ https://github.com/ishita303/Weather-App.git
+
+#### covid-tracker: Covid Tracker
+
+description_ Gives a stats of covid infected, treated and deaths.
+
+_stack_ Designed using Reactjs and API
+
+_hosted link_ not hosted
+
+_github link_ https://github.com/ishita303/Covid-Tracker.git
+
+#### Tinder: Tinder App Replica
+
+_description_ Recreated the Tinder App
+
+_stack_ Used Reactjs, API and hooks to create this application
+
+_hosted link_ not hosted
+
+_github link_ https://github.com/ishita303/Tinder-App.git
+
+#### Foodshala: Food Ordering App
+
+_description_ Created a food ordering app 
+
+_stack_ Demonstrating frontend skills with attractive login portal (HTML, CSS, JS, PHP)
+
+_hosted link_ not hosted
+
+_github link_ https://github.com/ishita303/Foodshala.git
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+My Blogs-
 
 #### Scribbles for Life
 
 _description_ This is my blog page, This is not a tech blog but it is my viewpoint over various social issues.
-Will be back soon, with tech blogs this time!
 
-_link_ https://scrriblesforlife.wordpress.com/
+_link_ https://scribblesforlife.wixsite.com/mysite-1
