@@ -37,15 +37,15 @@ not a lot of projects are done. I will keep updating it with real links when don
 
 My projects:
 
-#### foodshala: online food order portal
+#### foodshala: Realtime Chat App
 
-_description_ Online food ordering portal.
+_description_ React Chat app, talk realtime.
 
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
+_stack_ Reactjs, Hooks and Sockets are used to design this app.
 
-_hosted link_ not hosted
+_hosted link_ https://realtime-chat-application.netlify.app
 
-_github link_ not on git hub
+_github link_ https://github.com/ishita303/Chatapp.git
 
 #### visage: face recognition portal
 
