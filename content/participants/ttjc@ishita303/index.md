@@ -25,7 +25,7 @@ I sing and play guitar. I started blogging recently, also started with a novel.
 
 ### help I need?
 
-I would love to learn more about APi's and deploying applications.
+I would love to learn more about Rest APi's.
 
 ### how to contact me?
 
@@ -33,58 +33,64 @@ I would love to learn more about APi's and deploying applications.
 
 ### projects
 
-not a lot of projects are done. I will keep updating it with real links when done.
-
 My projects:
 
-#### foodshala: online food order portal
+#### Chatapp- Realtime Chat Application
 
-_description_ Online food ordering portal.
+_description_ This is a real time chat application
 
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
-
-_hosted link_ not hosted
-
-_github link_ not on git hub
-
-#### visage: face recognition portal
-
-_description_ Designed the frontend and backend of the face recognition web portal.
-
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
+_stack_ Designed using Reactjs.
 
 _hosted link_ not hosted
 
-_github link_ not on github
+_github link_ https://github.com/ishita303/Chatapp.git
 
-#### websites: Various websites
+#### WeatherApp
 
-_description_ Designed various websites, coded as well as CMS websites.
+_description_ It is a dynamic weather app, which changes background as per temprature
 
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
-
-_hosted link_ https://gradnet.co.in
-https://intereality.in https://seeshub.com https://wufu.in 
-
-_github link_ not on github
-
-#### Indian Handicrafts: online handicrafts order portal
-
-_description_ Designed the frontend and backend of the ecommerce website.
-
-_stack_ Designed the frontend by HTML, CSS and JS. Designed the backend by PHP.
+_stack_ Designed by using Reactjs.
 
 _hosted link_ not hosted
 
-_github link_ not on github
+_github link_ https://github.com/ishita303/Weather-App.git
+
+#### Covid-Tracker
+
+_description_ Tracks the covid patients, recovered and deaths also. 
+
+_stack_ Designed using React js
+
+_hosted link_ not hosted
+
+_github link_ https://github.com/ishita303/Covid-Tracker.git
+
+#### Tinder-App: Replica of Tinder
+
+_description_ Designed the basic replica of tinder with the accept reject functionalities.
+
+_stack_ Designed using Reactjs
+
+_hosted link_ not hosted
+
+_github link_ https://github.com/ishita303/Tinder-App.git
+
+#### Foodshala: Online Food Order Portal
+
+_description_ Designed the basic portal to order food online
+
+_stack_ Designed using HTML, CSS, JS, PHP
+
+_hosted link_ not hosted
+
+_github link_ https://github.com/ishita303/Foodshala.git
 
 ### blogs
 
-same as projects, I will keep updating my blogs as and when done.
+My blog-
 
-#### Scribbles for Life
+#### Ishita's Blogs
 
-_description_ This is my blog page, This is not a tech blog but it is my viewpoint over various social issues.
-Will be back soon, with tech blogs this time!
+_description_ This is my blog page, This is not a tech blog but it is my viewpoint over various social issues. Must Read!
 
-_link_ https://scrriblesforlife.wordpress.com/
+_link_ 
